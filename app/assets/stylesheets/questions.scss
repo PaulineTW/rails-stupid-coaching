@@ -1,0 +1,35 @@
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+}
+
+.question-banner {
+  background: #FFFFFF;
+  border-left: 8px solid #DDDDDD;
+  padding: 8px;
+
+}
+.answer-banner {
+  background-color: #FFFFE1;
+  border-left: 8px solid #DDDDDD;
+  padding: 8px;
+  margin-top: 8px;
+}
+
+.another-question a:link {
+  text-decoration:none;
+}
+
+.another-question {
+  padding: 8px;
+  margin-top: 24px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+a {
+  color: #000;
+}
